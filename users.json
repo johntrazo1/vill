@@ -1,0 +1,33 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "companyName": "Company A",
+        "employees": {
+          "1": "John Doe",
+          "2": "Jane Smith",
+          "3": "Michael Johnson"
+        },
+        "positions": {
+          "1": "Manager",
+          "2": "Developer",
+          "3": "Designer"
+        },
+        "location": "New York"
+      },
+      {
+        "id": 2,
+        "companyName": "Company B",
+        "employees": {
+          "1": "Alex Johnson",
+          "2": "Emily Davis"
+        },
+        "positions": {
+          "1": "CEO",
+          "2": "Manager"
+        },
+        "location": "San Francisco"
+      }
+    ]
+  }
+  
